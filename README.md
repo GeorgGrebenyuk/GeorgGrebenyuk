@@ -20,6 +20,10 @@
 ## Про блог:
 - https://zen.yandex.ru/id/5d0dba97ecd5cf00afaf2938;
 
+### Здесь же:
+- https://t.me/georg_chronicles;
+- https://t.me/renga_coding_channel;
+
 # Разработка:
 
 - сей репозиторий;
