@@ -31,3 +31,9 @@
 - Visual C++ на базовом уровне (что-то стояще только пока под Renga COM API + nwcreate lib) + смотрел open-source пакеты (gmsh, opencascade) https://github.com/GeorgGrebenyuk/renga_3d-export;
 - Python (совсем базовое) - скрипы в Dynamo, работа с IfcOpenShell и немного pandas (https://github.com/GeorgGrebenyuk/TIM-analytic_tools_MGUU_VC_cource);
 - SQL (PostgreSQL + PostGIS), частично через C# + Npgsql, частично через Pgadmin; под задачу создания БД для объектов ТСОДД (дорожное движения) в рамках тендера (ИКЗ 212780114580478110100101590017112244) для комитета по транспорту СПб (ГКУ ДОДД). Примера с GitHub **открытого** нет.
+
+## The Summing Up
+
+![AM@GH](https://github-readme-stats.vercel.app/api/?username=karavanjo&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karavanjo&layout=compact)
