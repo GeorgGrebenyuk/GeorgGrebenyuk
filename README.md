@@ -34,6 +34,6 @@
 
 ## The Summing Up
 
-![AM@GH](https://github-readme-stats.vercel.app/api/?username=karavanjo&show_icons=true&theme=default)
+![AM@GH](https://github-readme-stats.vercel.app/api/?username=GeorgGrebenyuk&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karavanjo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgGrebenyuk&layout=compact)
