@@ -6,8 +6,8 @@ For contact: inj5@yandex.ru
 
 # Education
 
-Master of building (road design), 2020-2022. Peter the Great St.Petersburg Polytechnic University;
-Postgraduate student (CAD), 2022-2025. Nizhny Novgorod State University of Architecture and Civil Engineering
+- Master of building (road design), 2020-2022. Peter the Great St.Petersburg Polytechnic University;
+- Postgraduate student (CAD), 2022-2025. Nizhny Novgorod State University of Architecture and Civil Engineering
 
 ## Also about edu and delopment:
 
