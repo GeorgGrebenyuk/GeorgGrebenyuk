@@ -1,19 +1,19 @@
-# Коротко обо мне
+# Small about me
 
-"Вечный" студент, преподаватель, разработчик-энтузиаст, любитель "open-source" и "open-data". Обучался на проектировщика автомобильных дорог, но занимаюсь смежными темами (ГИС, аналитике данных, прикладному программированию по САПР и "техническим писательством").
+Student, mentor, developer-enthusiast. The adherent of open-source and open-data. Original education -- road design, but there are some hobby: programming, GIS, technical writting, education.
 
-Для связи: inj5@yandex.ru
+For contact: inj5@yandex.ru
 
-# Образование
+# Education
 
-Магистр (выпуск 2022 г.), СПбПУ - Строительство автомобилььных дорог и мостов;
-В данный момент до 2025 г. обучаюсь в аспирантуре ННГАСУ на кафедре "Инженерная графика и компьютерная геометрия"
+Master of building (road design), 2020-2022. Peter the Great St.Petersburg Polytechnic University;
+Postgraduate student (CAD), 2022-2025. Nizhny Novgorod State University of Architecture and Civil Engineering
 
-## Также про образование и разработку:
+## Also about edu and delopment:
 
-С мая 2020г. работаю с bim.vc (Vysotsky Consalting) по методической части и разработки видеокурсов.
+Since May, 2020 working with VC (Vysotsky Consulting) team in bim.vc (cources creation and methodics).
 
-Веду популистский блог https://zen.yandex.ru/id/5d0dba97ecd5cf00afaf2938;
+Have a professional blog: https://zen.yandex.ru/id/5d0dba97ecd5cf00afaf2938;
 
 
 ## The Summing Up
