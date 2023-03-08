@@ -2,7 +2,7 @@
 
 Student, mentor, developer-enthusiast. The adherent of open-source and open-data. Original education -- road design, but there are some hobby: programming, GIS, technical writting, education.
 
-For contact: inj5@yandex.ru
+For contact: inj5381@gmail.com
 
 # Education
 
