@@ -14,6 +14,7 @@ For contact: inj5381@gmail.com
 Since May, 2020 working with VC (Vysotsky Consulting) team in bim.vc (cources creation and methodics).
 
 Have a professional blog: https://zen.yandex.ru/id/5d0dba97ecd5cf00afaf2938;
+My other professional profile on Gitlab look here: https://gitlab.nanodev.ru/egor.grebenyuk
 
 
 ## The Summing Up
