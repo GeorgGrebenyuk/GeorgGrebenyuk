@@ -2,7 +2,7 @@
 
 Student, mentor, developer-enthusiast. The adherent of open-source and open-data. Original education -- road design, but there are some hobby: programming, GIS, technical writting, education.
 
-For contact: inj5381@gmail.com
+For contact: e-mail inj5381@gmail.com or Telegram https://t.me/GeorgGrebenyuk
 
 # Education
 
