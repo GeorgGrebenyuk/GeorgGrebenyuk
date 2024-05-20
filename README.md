@@ -14,8 +14,3 @@ For contact: e-mail inj5381@gmail.com or Telegram https://t.me/GeorgGrebenyuk
 Since May, 2020 working with VC (Vysotsky Consulting) team in bim.vc (cources creation and methodics).
 
 Have a professional blog: https://zen.yandex.ru/id/5d0dba97ecd5cf00afaf2938;
-
-
-## The Summing Up
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgGrebenyuk&layout=compact)
